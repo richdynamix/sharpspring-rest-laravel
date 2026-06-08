@@ -51,3 +51,15 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 ## Laravel Package Boilerplate
 
 This package was generated using the [Laravel Package Boilerplate](https://laravelpackageboilerplate.com).
+
+<!-- richdynamix-bio:start -->
+
+## About the author
+
+Built and maintained by [Steven Richardson](https://richdynamix.com) — CTO at Digitonic and Laravel engineer.
+
+- Site & articles: [richdynamix.com](https://richdynamix.com)
+- Laravel deep-dives: [richdynamix.com/articles](https://richdynamix.com/articles)
+- More open source: [github.com/richdynamix](https://github.com/richdynamix)
+
+<!-- richdynamix-bio:end -->
